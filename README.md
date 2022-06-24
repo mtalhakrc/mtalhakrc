@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍🎓 I'm a student in Isparta/Turkey
-- 🧑‍💻 I'm curerenly working on Golang and Vue.js 
+- 🧑‍💻 I'm currently working on Golang and Vue.js 
 - 📫 How to reach me: mtalhakrc@gmail.com
